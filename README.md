@@ -1,4 +1,4 @@
-# student-attendance-management
+# student-attendance-manager
 
 
 # creating database and tables on mysql console
